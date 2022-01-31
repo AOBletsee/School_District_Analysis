@@ -147,7 +147,7 @@ This is what the summary looked like after replacing the grades:
 
   - Screenshot of Scores by school type after replacement:
 
-  ![This is an image](Resources/New_Scores_Type.png)
+    ![This is an image](Resources/New_Scores_Type.png)
 
 
 
