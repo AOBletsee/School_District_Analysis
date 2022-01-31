@@ -103,19 +103,19 @@ This is what the summary looked like after replacing the grades:
 
 ​		Screenshot of Math Scores by grade after replacement:
 
-![This is an image](Resources/New_math_Bygrade.png)
+![This is an image](Resources/New_math_ByGrade.png)
 
 
 
 ​		Screenshot of initial Reading Scores by grade:
 
-![This is an image](Resources/Start_reading_Bygrade.png)
+![This is an image](Resources/Start_reading_ByGrade.png)
 
 
 
 ​		Screenshot of Reading Scores by grade after replacement:
 
-![This is an image](Resources/New_reading_Bygrade.png)
+![This is an image](Resources/New_reading_ByGrade.png)
 
 
 
