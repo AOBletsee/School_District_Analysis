@@ -69,11 +69,11 @@ The screenshots below show data frames of District summaries before and after da
 
 
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/Starting_district_summary_ScreenShot.png)
+![This is an image](/Resources/Starting_district_summary_ScreenShot.png)
 
 
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/New_district_summary_ScreenShot.png)
+![This is an image](Resources/New_district_summary_ScreenShot.png)
 
 
 
@@ -83,13 +83,13 @@ Replacing the ninth graders' math and reading scores did not affect Thomas High 
 
 Below is a screenshot of the summaries per school before the replacement:
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/Starting_School_Summary.png)
+![This is an image](Resources/Starting_School_Summary.png)
 
 
 
 This is what the summary looked like after replacing the grades:
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/New_School_Summary.png)
+![This is an image](Resources/New_School_Summary.png)
 
 
 
@@ -99,23 +99,23 @@ This is what the summary looked like after replacing the grades:
 
   Screenshot of initial Math Scores by grade:
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/Start_math_Bygrade.png)
+![This is an image](Resources/Start_math_Bygrade.png)
 
 ​		Screenshot of Math Scores by grade after replacement:
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/New_math_Bygrade.png)
+![This is an image](Resources/New_math_Bygrade.png)
 
 
 
 ​		Screenshot of initial Reading Scores by grade:
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/Start_reading_Bygrade.png)
+![This is an image](Resources/Start_reading_Bygrade.png)
 
 
 
 ​		Screenshot of Reading Scores by grade after replacement:
 
-![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/New_reading_Bygrade.png)
+![This is an image](Resources/New_reading_Bygrade.png)
 
 
 
@@ -123,31 +123,31 @@ This is what the summary looked like after replacing the grades:
 
   - This is a screenshot of the Scores by school spending before the replacement:
 
-    ![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/Start_Scores_Spending.png)
+    ![This is an image](Resources/Start_Scores_Spending.png)
 
   - Screenshot of Scores by school spending after replacement:
 
-    ![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/New_Scores_Spending.png)
+    ![This is an image](Resources/New_Scores_Spending.png)
 
 - Scores by school size: These data frames remained the same before and after the replacement.
 
   - This is a screenshot of the Scores by school size before the replacement:
 
-    ![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/Start_Scores_Size.png)
+    ![This is an image](Resources/Start_Scores_Size.png)
 
   - Screenshot of Scores by school size after replacement:
 
-    ![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/New_Scores_Size.png)
+    ![This is an image](Resources/New_Scores_Size.png)
 
 - Scores by school type: These data frames remained the same before and after the replacement.
 
   - This is a screenshot of the Scores by school type before the replacement:
 
-    ![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/Start_Scores_Type.png)
+    ![This is an image](Resources/Start_Scores_Type.png)
 
   - Screenshot of Scores by school type after replacement:
 
-  ![This is an image](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/Module_04/School_District_Analysis/Resources/New_Scores_Type.png)
+  ![This is an image](Resources/New_Scores_Type.png)
 
 
 
